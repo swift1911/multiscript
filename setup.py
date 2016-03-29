@@ -117,7 +117,7 @@ setup(
     author_email="swift1911@163.com",
     url="http://github.com/swift1911/multiscript",
     license="http://www.apache.org/licenses/LICENSE-2.0",
-    description="sqlAlchemy-tablecache is a table cache tools for sqlAlchemy",
+    description="multiscript is a multiprocess tool for script",
     classifiers=[
         'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python :: 2',
